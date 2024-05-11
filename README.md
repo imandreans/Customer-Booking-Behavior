@@ -1,3 +1,4 @@
+Explore my project on Streamlit: https://customer-booking-behavior-fsqex4fdhqzkrdrkxwav26.streamlit.app/
 # Predicting Customer Buying Behavior
 ![image](https://github.com/imandreans/Customer-Booking-Behavior/assets/69078720/4a0a64c5-280c-4e32-8d6b-c797e5d349b6)
 
