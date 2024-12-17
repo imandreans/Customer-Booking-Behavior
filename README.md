@@ -23,11 +23,11 @@ The dataset for predicting customer buying behavior contains a history of custom
 # Result
 ## Model
 With Random Forest as the model and precision as the metric, the precision score is 0,713.
-![firefox_SAwBKrJjmH](https://github.com/imandreans/Customer-Booking-Behavior/assets/69078720/dc057d55-1f14-4243-8e85-96da7a91e2b6)
+![image](performance of model with all features.png)
 
 ## Feature Contribution
 Below, is the contribution of each variable to customer buying behavior:
-![image](https://github.com/imandreans/Customer-Booking-Behavior/assets/69078720/e5599a5a-c57b-476e-913a-499d9fb1fe18)
+![image](Most important features.png)
 
 Customer buying behavior is highly affected by the following:
 * How long did the customer book the plane before the travel 
