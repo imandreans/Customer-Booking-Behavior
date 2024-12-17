@@ -23,11 +23,11 @@ The dataset for predicting customer buying behavior contains a history of custom
 # Result
 ## Model
 With Random Forest as the model and precision as the metric, the precision score is 0,713.
-![image](performance of model with all features.png)
+![image](performance_of_model_all_features.png)
 
 ## Feature Contribution
 Below, is the contribution of each variable to customer buying behavior:
-![image](Most important features.png)
+![image](Most_important_features.png)
 
 Customer buying behavior is highly affected by the following:
 * How long did the customer book the plane before the travel 
