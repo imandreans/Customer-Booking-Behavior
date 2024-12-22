@@ -22,12 +22,24 @@ The dataset for predicting customer buying behavior contains a history of custom
 * Find the contribution of each variable
 # Result
 ## Model
+### Model with input of 13 features
 With Random Forest as the model and precision as the metric, the precision score is 0,713.
 ![image](performance_of_model_all_features.png)
 
-## Feature Contribution
+### Feature Contribution
 Below, is the contribution of each variable to customer buying behavior:
 ![image](Most_important_features.png)
+
+### Model with input of 5 features
+Meanwhile, model with 5 high contribution has lower precision score, it's 0.6993
+![image](performance_of_model_5_features.png)
+
+### Analysis of AUC on both models
+Model with 13 input features has higher AUC than model with 5 input features. Means that Model 13 input features can easily distinguishes between classes (which behavior lead to booking completion or not). 
+![image](auc_model_5 features_only.png)
+![image](auc_model_all features_only.png)
+
+
 
 Customer buying behavior is highly affected by the following:
 * How long did the customer book the plane before the travel 
