@@ -36,8 +36,8 @@ Meanwhile, model with 5 high contribution has lower precision score, it's 0.6993
 
 ### Analysis of AUC on both models
 Model with 13 input features has higher AUC than model with 5 input features. Means that Model 13 input features can easily distinguishes between classes (which behavior lead to booking completion or not). 
-![image](auc_model_5_features_only.png)
-![image](auc_model_all_features.png)
+![model 13 input features](auc_model_all_features.png)
+![model 5 input features](auc_model_5_features_only.png)
 
 
 
